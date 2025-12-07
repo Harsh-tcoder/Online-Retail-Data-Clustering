@@ -1,2 +1,9 @@
-# Online-Retail-Data-Clustering
-This repository demonstrates a hands-on data science project to analyze customer data using K-Means clustering. It covers data preprocessing, determining the optimal number of clusters, and interpreting customer segments to extract actionable insights for marketing, business strategy, and decision-making.
+# Online Retail Data Clustering Project
+
+## Setup
+
+Using python 3.12.1+
+
+1. Create a python virtual environment via `python -m venv <env_name>`
+2. Activate the environment via `. <env_name>/Scripts/activate` or `. <env_name>/bin/activate`
+3. Install requirements via `pip install -r requirements.txt`
